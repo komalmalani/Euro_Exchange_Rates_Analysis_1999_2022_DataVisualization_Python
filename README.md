@@ -1,10 +1,10 @@
 # Project Details
-The dataset we'll use describes Euro daily exchange rates between 1999 and 2021. The euro (symbolized with €) is the official currency in most of the countries of the European Union.
-If the exchange rate of the euro to the US dollar is 1.5, you get 1.5 US dollars if you pay 1.0 euro (one euro has more value than one US dollar at this exchange rate).
+The dataset describes Euro daily exchange rates between 1999 and 2021. The Euro (symbolized with €) is the official currency in most of the countries of the European Union.
+If the exchange rate of the Euro to the US dollar is 1.5, you get 1.5 US dollars if you pay 1.0 Euro (one Euro has more value than one US dollar at this exchange rate).
 My role being an analyst is :
-- To analyze exchange rates for Euro_to_US has changed over period of 30 years.
+- To analyze how exchange rates for Euro_to_US has changed over period of 30 years.
 - EURO_USD rate change between 1999 and 2021 with 30days Moving Average
-- EURO_USD rate change during Coronavirus Pandemic¶
+- EURO_USD rate change during Coronavirus Pandemic
 - EURO_USD rate fluctuations during "The Three US Presidencies " , so on and so forth
 
 ![1](https://github.com/komalmalani/Euro_Exchange_Rates_Analysis_1999_2022_DataVisualization_Python/blob/main/Euro_dollar_image.png)
@@ -14,7 +14,7 @@ The data source is the European Central Bank. Daria Chemkaeva put together the d
 and made it available on [Kaggle](https://www.kaggle.com/datasets/lsind18/euro-exchange-daily-rates-19992020)  
 
 # What are the steps followed?
-1.	Read in the sv file into a pandas DataFrame 
+1.	Read in the csv file into a pandas DataFrame 
 2.	Inspect the first and the last five rows to understand the structure of the dataset.
 3.	Use the DataFrame.info() method to learn some basic facts about the dataset:
 - What is the number of rows and columns?
