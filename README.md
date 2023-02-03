@@ -7,7 +7,7 @@ My role being an analyst is :
 -- EURO_USD rate change during Coronavirus Pandemic¶
 -- EURO_USD rate fluctuations during "The Three US Presidencies " , so on and so forth
 
-![1](C:\Users\komal\OneDrive\Desktop\DataJourney\projects\Python-Projects\Euro_Exchange_DailyRates_1999_2022\Euro_dollar.png)
+![1](https://github.com/komalmalani/Euro_Exchange_Rates_Analysis_1999_2022_DataVisualization_Python/blob/main/Euro_dollar_image.png)
 
 # Data
 The data source is the European Central Bank. Daria Chemkaeva put together the data set
